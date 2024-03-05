@@ -12,13 +12,11 @@
     color: white;
     padding: 20px;
 }
-.h1 h1{
-    width: 100%; 
-    text-align: center;
+.head h1, .right-side h1{
     font-size: 40px;
     font-weight: 900;
 }
-.h5 h5,{ text-align: center;
+ .head h5, .left-head h5, .right-side h5{
     font-size: 20px;
 }
 nav{ width: 100%;
@@ -61,11 +59,11 @@ nav ul{
     color: white;
     padding: 20px;
 }
- h1{
+.head h1, .right-side h1{
     font-size: 40px;
     font-weight: 900;
 }
- h5{
+ .head h5, .left-head h5, .right-side h5{
     font-size: 20px;
 }
 nav{
